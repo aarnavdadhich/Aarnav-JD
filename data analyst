@@ -273,3 +273,430 @@ Requirements:
 ● Basic understanding of data platforms and ETL processes.
 ● Good attention to detail with strong problem-solving skills.
 ● Prior experience in data wrangling with R or Python is a plus.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 14: https://www.linkedin.com/jobs/view/4290553817
+● Build and maintain Qlik dashboards and reports to deliver actionable business insights.
+● Extract, prepare, transform, and optimize data using Snowflake, ensuring accuracy and availability.
+● Partner with architecture teams to align reporting and analytics with data models and structures.
+● Design, maintain, and document data dictionaries in DBT to ensure data definition clarity and consistency.
+● Proactively source data to provide insights that drive business operations and strategic decisions.
+● Collaborate with business users to address data-related inquiries and support data-driven decision-making.
+● Ensure data quality, accuracy, and governance across all reports and dashboards.
+
+Requirements:
+● 5+ years of experience in data analysis, reporting, or business intelligence.
+● Strong expertise in QlikView and Qlik Sense for dashboard and report development.
+● Hands-on experience with Snowflake, including SQL, data modeling, and performance optimization.
+● Skilled in data preparation, transformation, and advanced analysis techniques.
+● Effective communicator capable of translating business requirements into actionable insights.
+● Strong analytical and problem-solving abilities.
+● Certifications in Snowflake, Qlik, or AWS are advantageous.
+
+Preferred Qualifications:
+● Experience with AWS cloud services such as S3, Glue, and Redshift.
+● Familiarity with DBT for data documentation and pipeline transformation.
+● Exposure to IoT data or handling large-scale datasets.
+● Proficiency with Python or SQL scripting for data analysis.
+
+Job Description 16: https://www.linkedin.com/jobs/view/4200227341
+● Perform advanced data analysis using SQL, Python, and R to generate actionable business insights.
+● Develop data visualizations and dashboards using Tableau, Power BI, and other BI tools.
+● Apply machine learning techniques and statistical analysis to support predictive and prescriptive analytics.
+● Utilize knowledge of stream processing technologies to enable near real-time data analytics.
+● Collaborate with cross-functional teams to support data-driven decision-making and strategy.
+
+Requirements:
+● Bachelor’s or Master’s degree in Data Science, Computer Science, Statistics, or related fields.
+● Minimum 7 years of professional experience in data analytics or a similar role.
+● Proficiency in SQL, Python, R, and data visualization tools like Tableau and Power BI.
+● Solid understanding of machine learning methods and statistical analysis techniques.
+● Experience with stream processing technologies for real-time analytics is mandatory.
+
+
+Job Description 17: https://www.linkedin.com/jobs/view/4281307607
+● Analyze, organize, and transform raw investment data into actionable business insights.
+● Build and maintain robust data systems and pipelines ensuring seamless data flow and integration from multiple sources.
+● Perform complex data analysis and deliver insightful reports leveraging data visualization techniques.
+● Collaborate with clients, system architects, and product teams to align data solutions with business requirements.
+● Continuously improve data quality, reliability, and governance following best practices.
+● Develop analytical tools and programs to empower data-driven decision-making across teams.
+
+Requirements:
+● Bachelor’s degree in Data Analytics, Statistics, Accounting, Computer Science, or related discipline.
+● 5+ years of experience in data analytics, reporting, and visualization.
+● Proficient in SQL and NoSQL databases, data integration, and ETL processes.
+● Experience with cloud platforms and big data technologies such as AWS, GCP, or Azure.
+● Skilled in programming languages such as Python, Java, or VBA.
+● Proficient in data manipulation, cleansing, and governance techniques.
+● Strong documentation, organizational, verbal and written communication skills.
+● Experience with data visualization tools like Tableau, Power BI, or D3.js.
+
+Job Description 18: https://www.linkedin.com/jobs/view/4280781303
+● Serve as the primary contact for data repositories, developing metrics and sustainable reports and dashboards for business insights.
+● Perform deep-dive analyses on data trends to identify root causes, emerging patterns, and improvement opportunities.
+● Deliver clear, concise recommendations to management and stakeholders to support timely, data-driven decision-making.
+● Build data models and reporting infrastructure for business process management and data mining.
+● Conduct quantitative analysis converting data into actionable business insights.
+● Drive the adoption of data-driven decision-making across the organization.
+
+Requirements:
+● 2–6 years of experience in data analytics, preferably in e-commerce, retail, or CPG industries.
+● Strong proficiency in SQL, Python, AWS Redshift, Databricks, and Tableau.
+● Excellent analytical, problem-solving, and stakeholder management skills.
+● Effective oral and written communication abilities.
+● Passion for sports and alignment with Decathlon’s culture is a plus.
+● Located in Bengaluru or willing to relocate.
+
+Job Description 19: https://www.linkedin.com/jobs/view/4289839690
+● Collaborate with business, operations, and technology teams to provide guidance on data management and governance concepts.
+● Support implementation and maintenance of the firm’s Global Data Quality Policy and best practices to mitigate data-related risks.
+● Ensure compliance with regulatory requirements related to data usage and production.
+● Assist with data cataloguing, data extracts, and resolve data-related queries.
+● Perform root cause analysis on data quality issues, identify common themes, and recommend solutions.
+
+Requirements:
+● Demonstrated experience in enterprise data management, data quality principles, and stakeholder management.
+● Proficient in data visualization tools such as Tableau and Power BI.
+● Experience with data analysis and manipulation tools like DataIKU and PowerQuery.
+
+Preferred Skills:
+● Knowledge of metadata management tools like Collibra.
+● Familiarity with Agile methodologies such as Scrum or Kanban.
+● Experience with APIs and management of PII or sensitive data.
+
+Job Description 20: https://www.linkedin.com/jobs/view/4280876833
+● Analyze and interpret complex datasets in domains such as Supply Chain, Finance, or Operations to deliver actionable business insights.
+● Apply data management principles including data governance, metadata management, and data quality to maintain reliable data assets.
+● Collaborate with data engineering teams to design, optimize, and monitor ETL processes ensuring efficient data extraction and loading.
+● Build and maintain data models using industry-standard tools to support analytics and reporting.
+● Develop and manage data catalogs to enhance discoverability, lineage, and governance of data assets.
+● Contribute to design and implementation of data marketplaces and data products for self-service data access.
+● Work within Agile frameworks delivering iterative data solutions through sprint planning, stand-ups, and retrospectives.
+● Partner with business stakeholders to translate process requirements into data-driven solutions.
+● Monitor data quality, detect anomalies, and recommend improvements to ensure data integrity.
+● Create reports, dashboards, and visualizations to communicate findings effectively to technical and non-technical audiences.
+
+Requirements:
+● Bachelor’s degree in Data Science, Computer Science, Statistics, Business Analytics, or related field.
+● 5+ years of experience as a Data Analyst or similar role with proven delivery of data solutions.
+● Expertise in data governance, data quality, metadata management, and data engineering concepts (ETL).
+● Hands-on experience with SQL, Python, Informatica, and data modeling tools like ER/Studio, dbt, PowerDesigner.
+● Experience managing data catalogs with Atlan, Collibra, or Informatica Data Catalog.
+● Familiarity with data marketplaces and data products.
+● Experience working in Agile environments with iterative development cycles.
+● Good understanding of at least one business domain such as Supply Chain, Finance, or Operations.
+● Strong analytical skills and ability to work with large datasets.
+● Excellent communication and stakeholder collaboration skills.
+
+Preferred Qualifications:
+● Experience with cloud platforms like AWS, Azure, or Google Cloud and their data services.
+● Familiarity with BI tools such as Tableau, Power BI, and Looker.
+● Exposure to advanced analytics including predictive modeling or machine learning.
+
+Job Description 21: https://www.linkedin.com/jobs/view/4227493838
+● Lead and mentor a team of data analysts to generate actionable insights and deliver high-impact results.
+● Collaborate across functions to identify data-driven solutions for business challenges.
+● Design, develop, and maintain data pipelines ensuring data quality, accessibility, and relevance.
+● Apply advanced statistical techniques to detect trends, patterns, and anomalies in data.
+● Develop and maintain dashboards and visualization tools for effective stakeholder communication.
+● Document and present analytical findings clearly to both technical and non-technical audiences.
+
+Requirements:
+● Minimum 5 years of experience in data analysis, machine learning, or related roles.
+● Proficient in Python programming and SQL with experience in relational databases.
+● Familiarity with NoSQL databases such as Cassandra or MongoDB.
+● Strong analytical, problem-solving skills, and attention to detail.
+● Excellent written and verbal communication and presentation skills.
+
+Preferred Skills:
+● Experience with machine learning libraries.
+● Exposure to AWS services (Kinesis, EMR, SQS, EKS, ASG).
+● Knowledge of scheduling/orchestration tools like Airflow.
+
+Job Description 22: https://www.linkedin.com/jobs/view/4248102099
+● Integrate diverse datasets and prepare data for analysis to support client projects.
+● Apply data science methods to generate insights and informed recommendations for clients.
+● Deliver analytical outcomes in line with project timelines and key milestones.
+● Maintain awareness of emerging trends and best practices in the data science industry.
+● Develop and manage analytical code and scripts.
+● Communicate findings and insights effectively to clients and stakeholders.
+
+Requirements:
+● Proficiency in SQL and Tableau.
+● Strong analytical and communication skills.
+● Ability to manage and deliver projects on schedule.
+
+Job Description 23: https://careers.ey.com/ey/job/Gurgaon-Analyst-Reporting-and-Technology-HR-122010/1241331201/?feedId=353401&utm_source=LinkedInJobPostings&utm_campaign=j2w_linkedin
+● Collect, process, and analyze large datasets to identify trends, patterns, and insights that inform business decisions.
+● Develop and maintain reports, dashboards, and visualizations using analytics tools.
+● Collaborate with business stakeholders to understand data requirements and ensure data quality and accuracy.
+● Assist in designing and implementing data models and databases to support analytics initiatives.
+● Provide technical support, troubleshooting, and user training for analytics platforms.
+● Participate in developing and executing data governance and data management strategies.
+● Document analytics processes and communicate findings to technical and non-technical audiences.
+● Support ad-hoc analytics projects as needed.
+
+Requirements:
+● Postgraduate or equivalent degree in IT, Computer Science, Data Analytics, Statistics, or related field.
+● 2–3 years of experience in data analytics, business intelligence, or reporting roles.
+● Proficiency in SQL and Microsoft Excel (formulas, pivot tables, data manipulation).
+● Experience with data visualization tools such as Tableau or Power BI.
+● Basic understanding of data analysis principles, statistical concepts, and BI.
+● Excellent communication and interpersonal skills, with ability to present complex data clearly.
+● Ability to work independently and collaboratively with a proactive mindset.
+
+Preferred:
+● Familiarity with programming languages such as Python or R.
+● Knowledge of risk management attributes.
+● Experience with Microsoft 365 and PowerPoint.
+
+Job Description 24: https://www.linkedin.com/jobs/view/4279992381
+● Perform in-depth statistical analyses, including impact, pre-post, and funnel analyses to generate actionable insights for growth optimization.
+● Evaluate product and feature performance to inform development and enhancements.
+● Analyze customer behavior and segmentation to tailor marketing and product strategies.
+● Develop and maintain dashboards and reports providing visibility into key metrics and enabling self-serve analytics.
+● Translate complex data into clear insights that drive strategic business decisions.
+● Collaborate with growth, sales, and product teams to understand data needs and deliver analytical support.
+● Own and develop the analytics roadmap, including vendor/tool selection and long-term projects.
+● Ensure data quality through regular validation and cleansing, and drive efficiency improvements via automation.
+● Lead end-to-end analytics projects such as campaign optimization, pricing strategies, and attribution modeling.
+
+Requirements:
+● 2–3 years of experience in analytics or a related domain.
+● Proficiency in SQL and Excel for data analysis.
+● Strong business acumen linking data insights to business goals.
+● Experience with statistical methods and advanced analytical techniques.
+● Understanding of data architecture and implementation.
+● Skilled in data visualization tools such as Tableau, Power BI, or Looker.
+● Self-motivated, proactive, and accountable with strong communication skills for non-technical audiences.
+
+Job Description 25: https://www.linkedin.com/jobs/view/4220217890
+● Conduct deep-dive analysis on internal datasets to uncover trends, patterns, and actionable business insights.
+● Build, maintain, and enhance dashboards and reports using data visualization tools such as Metabase and Amplitude.
+● Collaborate with cross-functional stakeholders to gather data needs, define analysis requirements, and deliver timely, clear outputs.
+● Translate complex data findings into concise, business-friendly recommendations for non-technical audiences.
+● Ensure clean, reliable data sources by working with data pipelines and models.
+● Monitor key internal metrics, flag anomalies, and identify opportunities for improvement.
+● Support data requests and analytics projects within service level agreements.
+● Maintain data quality, consistency, and integrity across reporting and analytics workflows.
+
+Requirements:
+● 5+ years of experience in data analysis or similar roles, preferably within product or SaaS environments.
+● Proficient in SQL with experience querying large datasets in cloud-based data warehouses (e.g., Snowflake).
+● Hands-on experience with visualization tools like Metabase, Amplitude, or equivalents.
+● Familiarity with Python scripting for data analysis.
+● Strong communication skills with the ability to explain data insights to non-technical stakeholders.
+● Ability to manage multiple priorities effectively in a fast-paced environment.
+● Knowledge of dbt, Git, or AWS Glue is a plus.
+
+Job Description 26: https://www.linkedin.com/jobs/view/4285041331
+● Collaborate to define and build test data acquisition approaches including provisioning and subsetting for testing environments.
+● Document existing data retrieval mechanisms and build a comprehensive test data inventory categorized by application, scenario, use case, and data type.
+● Partner with Full Stack Developers to integrate data retrieval into a self-service test data portal enabling on-demand access.
+● Define filtering criteria and metadata to optimize user experience, test data search, and discovery.
+● Refine data reservation processes in the portal to prevent conflicts, ensuring test data integrity and isolation.
+● Ensure secure, read-only query execution with data masking and anonymization for sensitive data compliance.
+● Provide expertise on TDM best practices: efficient retrieval, reusability, and fostering a TDM culture.
+● Transfer query structures and data requirements to the team for improved test data mining efficiency.
+
+Requirements:
+● 5+ years of experience as a Test Data Specialist with strong knowledge of TDM principles including subsetting, generation, refresh, and synthetic data.
+● Proficient in writing complex SQL queries in Azure SQL or similar environments for data extraction and manipulation.
+● Strong understanding of data structures, schemas, and stored procedures for data profiling and analysis.
+● Experience working closely with QA teams to address test data challenges such as scarcity and privacy.
+● Excellent analytical, communication, and collaboration skills to work with both technical and non-technical stakeholders.
+● Ability to work independently and manage multiple tasks efficiently, meeting deadlines in TDM solution implementations.
+
+Preferred Qualifications:
+● Experience with TDM tools like Broadcom Test Data Manager, Informatica TDM, Delphix, or GenRocket.
+● Experience designing and implementing self-service test data provisioning portals.
+● Familiarity with Agile methodologies and integrating TDM processes within sprint cycles.
+
+Job Description 27: https://www.linkedin.com/jobs/view/4278298421
+● Lead evolution of infrastructure and data pipelines, driving innovation and operational excellence in delivering digital solutions.
+● Implement data quality processes, ensuring reliable and trustworthy data to extract actionable insights for operational improvement and resource optimization.
+● Investigate and analyze data issues related to quality, lineage, controls, and source identification; execute cleansing and transformation for analysis readiness.
+● Design and build automated data pipelines for efficient data movement and processing.
+● Apply advanced analytics including machine learning and AI to solve complex business problems.
+● Document data quality findings and recommend improvements.
+● Collaborate cross-functionally to advise and influence decision-making, contribute to policy development, and manage operational risks.
+● Lead and coach teams or guide collaborative assignments to deliver impactful outcomes across the business function.
+● Identify and mitigate risks while strengthening control and governance frameworks.
+● Communicate complex, sensitive information clearly and influence stakeholders to achieve objectives.
+
+Requirements:
+● Expertise in SQL, Snowflake, Teradata BTEQ.
+● Banking domain knowledge with experience managing regulatory deliveries.
+● Exposure to UK financial regulations, cloud technologies, and big data tools is highly valued.
+● Critical thinking and pattern recognition skills.
+● Leadership capabilities with ability to energize, align, develop others, and foster authentic collaboration.
+
+Job Description 28 : https://www.linkedin.com/jobs/view/4279812910
+● Develop and maintain Power BI dashboards for actionable business insights.
+● Build and optimize data queries and pipelines using Microsoft Azure, Alteryx, and Informatica.
+● Support Finance and Operations with data validation, reporting, and process improvement.
+● Collaborate with stakeholders to gather requirements and ensure data quality.
+● Strong skills in Power BI (DAX, Power Query), Azure data services, SQL, and ETL tools.
+● 4–5 years of experience in data analytics or BI; Bachelor’s degree required, Master’s preferred.
+● Excellent problem-solving, communication, and team leadership abilities.
+
+Job Description 29: https://www.naukri.com/job-listings-data-analyst-deployment-legistify-gurugram-0-to-2-years-221124503740?src=jobsearchDesk&sid=17563976277111240&xp=4&px=1&nignbevent_src=jobsearchDeskGNB
+● Manage master data including creation, updates, and deletion, along with user roles and access.
+● Provide quality assurance of imported data and ensure data integrity and normalization.
+● Design and manage reporting environment, including data sources, security, metadata, and dashboards.
+● Support data warehouse operations by identifying and revising reporting requirements.
+● Generate reports from multiple systems and troubleshoot reporting databases and dashboards.
+● Evaluate system changes and assist in software upgrades and strategic decision-making.
+● Train end-users on new reports and dashboards, and provide technical expertise in data storage, mining, cleansing, and validation.
+
+Requirements:
+● Graduate or postgraduate degree.
+● Proficiency in Python for metadata analysis, SQL, Excel, Tableau, and data management tools.
+● Strong skills in data analytics, data cleansing, quality assurance, and master data management.
+
+Job Description 30: https://sprinklr.wd1.myworkdayjobs.com/en-US/careers/job/India---Karnataka---Bangalore/Data-Analyst_111200-JOB
+● Create reports and generate insights to optimize Marketing ROI and SDR productivity and performance.
+● Define KPIs and implement regular reporting on forecasting, funnel analysis, and pipeline management.
+● Collaborate with cross-functional teams to provide actionable, high-impact insights across product lines.
+● Partner with Operations, Tools, Insights, and Enablement teams to drive revenue-generating solutions.
+● Present data and analysis using visualizations, dashboards, and other appropriate formats to varied audiences.
+● Work with large, complex datasets using strong database skills to extract insights.
+● Cleanse and transform unstructured or ambiguous data to improve business processes with advanced analytics.
+
+Requirements:
+● 5+ years experience in analytics, consulting, or quantitative roles, preferably in hyper-growth or large tech/SaaS companies.
+● Expertise in SDR/Sales/Revenue analytics, measurement, and attribution.
+● Proficient in SQL, R, SAS, or JMP, and experience with visualization tools like Tableau, Power BI (preferred), Spotfire, or Sisense.
+● Ability to manage multiple priorities in a fast-paced, technology-driven environment.
+
+Job Description 31: https://jobs.lever.co/ion/097fc569-e468-4703-a196-f5d0f7517e3d
+● Produce weekly, monthly, and quarterly M&A market reports with comprehensive analysis, highlighting key deals and emerging trends.
+● Transform large datasets into clear, insightful charts and graphs to support data-backed editorial content.
+● Analyze diverse datasets within the macroeconomic context to identify patterns and trends.
+● Collaborate with editorial teams to develop compelling analytical content and data visualizations.
+● Maintain regular relationships with journalists and market participants to support private data operations.
+
+Requirements:
+● Background in Economics, Accounting, Finance, or M&A research.
+● Proficiency in Microsoft Office; Power BI experience preferred.
+● Strong analytical mindset, attention to detail, and investigative approach.
+● Interest in financial markets and macroeconomic trends.
+● Excellent communication and time management skills.
+● Experience handling large datasets and databases is preferred.
+
+Job Description 32 : https://www.naukri.com/job-listings-junior-analyst-evalueserve-com-pvt-ltd-gurugram-0-to-1-years-130525502883?src=cluster&sid=17563976277111240_11&xp=18&px=1&nignbevent_src=jobsearchDeskGNB
+● Manage master data, including creation, updates, and deletion; handle user roles and data security.
+● Ensure quality assurance of imported data and support data integrity and normalization initiatives.
+● Design and maintain reporting environments, data sources, and metadata.
+● Generate and troubleshoot reports from single or multiple systems.
+● Evaluate system changes and assist with software upgrades and strategic decisions.
+● Train end-users on new reports and dashboards.
+● Provide technical expertise in data storage structures, data mining, data cleansing, and quality control.
+
+Key Skills:
+Master data management, data analysis, risk management, metadata handling, report generation, data mining, administration, data integrity.
+dashboards, data cleansing, Excel (including advanced skills), troubleshooting, quality control, and reporting.
+
+Job Description 33: https://www.linkedin.com/jobs/view/4274647484
+Key Responsibilities:
+
+Collect, consolidate, and validate data from diverse sources to ensure accuracy and quality.
+
+Develop and manage data pipelines to support repeatable, scalable analysis.
+
+Analyze large datasets to uncover insights on business performance, customer behavior, and market trends.
+
+Build and maintain dashboards and reports using Power BI, Tableau, or Excel.
+
+Collaborate with stakeholders to translate business needs into analytical solutions.
+
+Present findings clearly to non-technical audiences and provide data-driven recommendations.
+
+Ensure compliance with data privacy regulations and maintain documentation of data sources and methodologies.
+
+Job Description 34: https://www.linkedin.com/jobs/view/4230814710
+● Collaborate cross-functionally to understand data needs and translate them into actionable strategies.
+● Collect, clean, and analyze structured and unstructured data to uncover business insights.
+● Build and maintain dashboards, reports, and visualizations for effective stakeholder communication.
+● Identify trends, patterns, and anomalies to support operational and strategic decisions.
+● Write and maintain robust SQL queries for data extraction and manipulation.
+● Present insights clearly to technical and non-technical audiences.
+● Monitor key performance indicators and recommend improvements.
+
+Requirements:
+● Bachelor’s degree in Statistics, Mathematics, Computer Science, Economics, or related field.
+● 3–5+ years of experience as a Data Analyst or similar analytical role.
+● Proficient in SQL and Excel; working knowledge of Python or R a strong plus.
+● Strong understanding of statistical methods and data modeling.
+● Excellent problem-solving skills with attention to detail.
+● Effective communication skills for diverse audiences.
+● Proactive, curious, and impact-driven mindset.
+
+Job Description 35: https://www.linkedin.com/jobs/view/4270194001
+● Support clients with technology consulting solutions through data analysis and insights using SQL, Tableau, Power BI, and Excel.
+● Prepare and cleanse raw data with tools like Alteryx and Python for accurate analysis.
+● Collaborate with global teams to understand business problems, provide status updates, and support issue resolution.
+● Communicate clearly with stakeholders via writing and presentations; work effectively in dispersed teams.
+● Learn and apply new technologies, deliver high-quality client solutions, and meet project deadlines.
+
+Must-Have Skills:
+● Strong analytical and problem-solving abilities.
+● Proficiency in SQL and Python programming.
+● Experience with ETL and data visualization tools such as Alteryx, Tableau, or Power BI.
+
+Preferred Skills:
+● Strong communication and stakeholder management skills.
+● Experience with cloud technologies, risk management, consulting, or accounting.
+
+Job Description 36: https://www.linkedin.com/jobs/view/4280130415
+
+Role Purpose:
+
+Interpret data into reports, dashboards, and visualizations that enhance business decisions and performance.
+
+Key Responsibilities:
+
+Manage technical project scope, aligning with requirements at all stages.
+
+Gather data from warehouses, databases, and integration systems; interpret patterns and trends.
+
+Develop and enforce record management processes and data governance policies.
+
+Build and maintain client relationships to understand needs and deliver data-driven proposals and insights.
+
+Identify and implement process automation and efficiency improvements.
+
+Set up and maintain automated data workflows and validate data quality using external tools.
+
+Produce and track key performance indicators (KPIs) to monitor business health.
+
+Analyze complex data sets including survey data, generating insights for internal/external reporting.
+
+Create dashboards, graphs, and visualizations showcasing performance and competitive benchmarking.
+
+Mine large datasets and develop predictive models tailored to client requirements.
+
+Performance Metrics:
+
+Number of process automations implemented
+
+Timely delivery of reports and analytics
+
+Customer satisfaction (CSAT score)
+
+Zero customer escalations
+
+Data accuracy and quality
+
+Mandatory Skills:
+
+Strong expertise in Data Governance
+
+Experience:
+
+5 to 8 years in data analytics or related roles
+
+
+
