@@ -1,0 +1,352 @@
+1
+Own the product roadmap and prioritization, balancing customer needs with technical feasibility and business impact.
+Conduct customer research and translate insights into clear product requirements and user stories.
+Work closely with engineering to define specifications, manage sprints, and ensure timely delivery.
+Use AI tools extensively to accelerate product discovery, create prototypes, analyze data, and improve internal workflows.
+Monitor the AI ecosystem to identify emerging capabilities we can leverage in our products.
+Define and track product metrics, running experiments to validate hypotheses.
+Create product documentation, training materials, and go-to-market collateral (leveraging AI tools for efficiency).
+Support customer demos and gather direct feedback from early adopters.
+Build data-driven business cases for product investments.
+---------------------
+2
+Customization and Solutioning: Customize existing organizational AI product assets and solutions (e.g., fraud engines, NLP-based chat solutions) for specific banking client use cases, accounting for their unique data structures and regulatory environments.
+Domain Expertise & Innovation: Brainstorm and conceptualize new Banking-specific AI capabilities and solutions by leveraging your expertise as a Banking product/domain Subject Matter Expert (SME), translating emerging trends into concrete product opportunities (e.g., new generative AI applications for compliance).
+Product Definition & Prototyping: Define the product vision and features, translating client requirements into clear, measurable user stories. Lead the process of MVP (Minimum Viable Product) and Wireframe development to visually communicate proposed solutions to both internal teams and external clients.
+Execution & Delivery: Own the end-to-end product lifecycle in a client delivery context. Drive Banking AI capability delivery for both new and existing clients, coordinating with Data Science, Engineering, and Implementation teams to ensure timely and high-quality deployment.
+Technical Showcase & Enablement: Jointly work with the Technology team to build and refine AI Demos and Showcases specific to Banking and Financial Services to support sales efforts, thought leadership, and client engagement.
+-----------------
+3
+Product Management Core: Product Strategy & Road mapping, GTM & Pricing, MVP definition, Agile/Scrum, Stakeholder Management, and strong analytical skills for defining and tracking KPIs.
+Financial Services Domain: In-depth knowledge of banking value chains (e.g., Retail, Commercial, Investment Banking) and core financial processes (e.g., Fraud/Risk Management, Regulatory Compliance, Trading).
+AI/ML Acumen & Prototyping: Understanding of the AI/ML lifecycle and core concepts including LLMs, RAG, Agentic AI. Ability to quickly develop product mockups and wireframes to articulate the AI solution.
+Consulting & Client Focus: Proven ability to gather requirements from clients, customize solutions for a specific customer, and clearly articulate technical value to a non-technical audience.
+Regulation & Ethics: Deep understanding of regulatory compliance in finance (e.g., KYC, AML, GDPR) and principles of Responsible AI (Fairness, Explainability, Transparency).
+-------------------
+4
+Technical Tools: Familiarity with cloud platforms (AWS, Azure, GCP) and their ML services, and experience with data visualization tools (e.g., Tableau, Power BI).
+Solution Architecture: Basic understanding of data pipelines, integration methods (API design), and how AI models are deployed and monitored in a production banking environment.
+Business Case Development: Experience in quantifying the ROI of AI projects and creating compelling business cases to gain client and executive buy-in.
+Pre-Sales Support: Experience creating and conducting technical demonstrations and showcases for potential and existing clients.
+Data & Quality Assurance: Hands-on comfort with defining data requirements for modeling and working with QA/Testing teams to validate AI model behavior and output quality.
+----------------------------
+5
+Contribute to the overall product roadmap across all platforms - web, mobile, apps -- after careful consideration of the needs of internal and external partie
+Lead development of new product offerings by conducting market research, user surveys, and the like to understand where and how we can satisfy unmet consumer needs.
+Manage the product development process from conception through wireframing, design, build, release, analysis, and iteration
+Be a critical voice of the user within Impact Guru. Ensure we are doing everything we can to help users save money.
+Employ a range of qualitative (user discovery research, focus groups, usability studies, etc.) and quantitative (surveys, analytics, market research, etc) methods to better understand our users' needs.
+Conduct A/B tests to understand how we can increase the desired use case(s) of our products.
+---------------------------
+6
+Own the roadmap for enterprise integrations, ensuring they are robust, scalable, and aligned with Snapmint’s product vision
+Act as the primary product interface for enterprise accounts, understanding their business goals and aligning them with Snapmint’s offerings
+Lead integration discussions with partner product and engineering teams — from requirement scoping to launch
+Drive adoption and growth within enterprise accounts by enabling new use cases and product features
+Track and report on key success metrics such as partner adoption, transaction growth, and revenue contribution
+Proactively identify opportunities to deepen Snapmint’s presence and unlock new streams of enterprise-led growth
+Represent enterprise partner needs in internal roadmap prioritization, ensuring a balance between scalability and customization
+Cultivate and manage relationships with senior stakeholders within enterprise accounts, acting as a trusted advisor and product expert
+----------------------
+7
+Define and own the AI-driven DNS roadmap, aligned with DigiCert’s trust and cloud strategy.
+Translate complex AI/ML capabilities into customer-focused, market-ready features.
+Partner with engineering and MLOps teams to deliver secure, scalable, cloud-native services.
+Use AI-assisted tools to analyze feedback, synthesize insights, and iterate quickly.
+Define and track success metrics — adoption, latency, reliability, trust-signal accuracy.
+Drive GTM execution with marketing and sales — launches, messaging, pricing, enablement.
+Engage customers, partners, and standards groups to validate use cases and guide innovation.
+Foster a data-driven product culture using telemetry, dashboards, and A/B experimentation.
+Ship production-ready features in days, not weeks, and iterate continuously.
+----------------------
+8
+Represent the customer. Actively try to understand and build features by
+keeping customers in mind.
+Understand the needs of our customers and business to help create the
+roadmap for your product area.
+Develop a deep understanding of our customers and build the best product
+user experiences on their behalf through market research, experimentation, user testing, and data analysis.
+Define and analyze metrics that inform the success of products.
+Drive the cross-functional team (engineering, design, etc.) to deliver on the
+product outcome with minimal help from managers.
+--------------------
+9
+Own the full product lifecycle of specific AI features: ideation-> discovery → spec → launch → adoption → post‑launch refinement → business outcomes
+Deliver functionality such as email auto‑tagging, sentiment detection, smart replies, summarization, or agent assist
+Collaborate with engineering, design, and data teams to translate customer needs into technical solutions
+Define success metrics (adoption, accuracy, usage), monitor performance, and iterate based on data
+Be the liaison for Customer Success, GTM, Sales, and Marketing during feature rollout
+Stay sharp on the AI/LLM landscape (LLM APIs, embeddings, RAG, prompt engineering) to influence what–and how–we build
+-------------------
+10
+Define and execute the AI product roadmap in collaboration with leadership and cross-functional teams.
+Translate business problems into clear AI/ML product requirements.
+Collaborate with data scientists and engineers to define success metrics, datasets, and model evaluation frameworks.
+Prioritize product features and improvements based on user research, data analysis, and business value.
+Ensure model performance, explain ability, fairness, and compliance with ethical standards.
+Drive experimentation, A/B testing, and iteration cycles for continuous product improvement.
+Serve as the liaison between engineering, data science, design, and stakeholders to ensure timely and high-quality delivery.
+Stay abreast of emerging AI trends, technologies, and best practices.
+User Experience (UX):
+Champion a user-centric design approach, working with UX/UI designers to create intuitive, efficient, and delightful user experiences for complex financial workflows.
+Performance & Metrics:
+Define key performance indicators (KPIs) for product success and regularly report on product performance to stakeholders.
+-------------------
+11
+ Partner with new payment integration providers to roll out newer payment products. 
+ Roll out intelligent routing flows to optimize for success rate & commissions. 
+ Build dynamic switching platforms by looking at user preference, payment success rate and channel type. 
+ Own the end-to-end product strategy for SMS, WhatsApp, PUSH, and other customer messaging channels. 
+ Optimize notification costs and vendor integrations while maintaining high reliability and compliance. 
+ Lead the roadmap for the redBus Wallet by collaborating with business stakeholders to scale the wallet ecosystem securely. 
+ Explore opportunities to increase wallet adoption, retention, and frequency of use. 
+ Work with data and growth teams to measure wallet effectiveness and contribution to key business metrics. 
+----------------------
+12
+Own and proactively drive product requirements definition, documentation, delivery, and successful outcomes in your assigned area:
+Aligned to strategy and product direction as defined by PM leadership
+Clear business cases, use-cases, value propositions, acceptance, and success criteria.
+High quality written requirements in the system of record with required sections and details.
+Stakeholder reviews and alignment.
+Engineering partnership and clarity.
+Own and proactively drive accomplishment of the operational needs within your assigned area of the team:
+Clearly documented expected outcomes and plans.
+Stakeholder awareness, partnership, and alignment.
+Ensure timely completion and engage teammates as needed for help.
+Participate and support team and company objectives:
+Fulfil supporting tasks and assignments to committed timelines.
+Engage in online meetings “face to face”.
+Raise your hand when help is needed.
+Manage priorities and communicate effectively.
+Foster good communication, respect, and camaraderie within the team and across other groups in the organization.
+Extending from our corporate values, exemplify the following:
+Empathy – We seek to understand the needs, feelings, and motivations of customers and colleagues.
+Pragmatism – We are focused on delivering practical uses and successes, and the business to do, aligned to our strategies and long term direction.
+Kaizen – We are focused on continual improvement and learning. We make decisions, we own failures so that we can learn and improve.
+Agility – We embrace agility in software development, but first in our ability to change through personal and team behaviors that demonstrate: balance, speed, strength, and coordination.
+Kōkua – We seek to help our colleagues and create success for our customers without expecting our own personal gain.
+--------------------------
+13
+Define and own strategic north star metrics to drive growth across current product lines.
+Lead external growth initiatives across channels to improve lead generation, consideration, and conversion by streamlining processes and reducing friction.
+Design and execute product-led initiatives—such as lite versions, demo environments, self-serve trials, and low-barrier experiences—that creatively generate and nurture leads, reduce merchant anxiety, and accelerate product trials.
+Own and grow the Partner Training Portal as a channel for educating partners, creating new leads, and driving adoption of BIK’s offerings.
+Work with the Customer Success team to generate actionable insights that drive retention and upsell opportunities.
+Identify high-leverage product opportunities through data analysis, user feedback, and experimentation.
+Partner cross-functionally with design, engineering, and marketing to execute growth experiments and roll out impactful product changes.
+Support GTM teams on campaign strategy, channel adoption, and user education to ensure new features and initiatives reach their audience effectively.
+Define success metrics, track KPIs, and regularly report on performance, learnings, and improvement areas.
+-------------------------
+14
+Define, sequence, and communicate product priorities, balancing near-term wins with long-term platform bets.
+Inject external, industry-level insight into our roadmap—scanning the market, competitors, and emerging tech to surface white-space opportunities.
+Architect and execute the end-to-end growth strategy (acquisition, activation, retention, monetisation) across online (SEO/SEM, paid social, agencies) and offline (events, channel sales, field marketing) environments.
+Discover, negotiate, and launch high-impact distribution channels and strategic partnerships that accelerate scale and brand visibility.
+Own north-star and funnel metrics, run rapid experimentation, and translate findings into product iterations and go-to-market tactics.
+Partner deeply with Engineering, Design, Data, and Marketing teams to align resources, timelines, and KPIs around a unified growth roadmap.
+-----------------
+15
+Proven product-led thinker: you craft hypotheses, run agile experiments, and convert insights into features that move metrics.
+Groom backlogs, apply rigorous prioritization frameworks, author crisp PRDs, and drive squads toward high agile velocity and iterative delivery.
+Obsessively data-driven—fluent in cohort analysis, funnels, A/B testing, LTV:CAC metrics
+Hands-on mastery of growth stack tools (e.g., Mixpanel, Segment, Braze, Optimizely, Google Analytics, HubSpot, Webflow, Zapier) and a curiosity to test the next best thing.
+Comfortable owning P&L-level goals, influencing cross functional stakeholders toward aggressive growth targets
+Experience in fintech or regulated industries is a plus, but your ability to learn verticals fast and bring an outside-in perspective matters more.
+Entrepreneurial bias for action—you thrive in ambiguity, unblock yourself and others, and relish wearing multiple hats to hit audacious timelines.
+Exceptional communication and storytelling skills; you can distill complex data into crisp narratives that inspire internal teams, partners, and customers.
+--------------------
+16
+Develop and execute a strategic roadmap for the growth machinery across our digital and physical platforms.
+Conduct in-depth market research and user analysis to identify customer needs, preferences, and trends, thereby informing product development and innovation.
+Define and refine user personas for fitness, leveraging insights to optimize customer journeys and enhance user engagement.
+Collaborate closely with cross-functional teams, including design, analytics, engineering, business, and operations, to create and implement omnichannel experiences to get users into fitness.
+Establish performance metrics for product initiatives and track progress to ensure alignment with business objectives and subscriber growth targets.
+Innovate and iterate on product features and services to improve key conversion funnels.
+---------------------
+17
+Growth Strategy & Execution:
+ Own 0-to-1 growth experiments—identify, validate, and scale new channels and conversion levers.
+ Scale 1-to-N growth strategies—optimize funnels, cohorts, and retention frameworks.
+ Define, track, and optimize North Star growth metrics (Activation, Retention, Revenue, Referral, etc.).
+ Experiment with pricing, monetisation models, and new revenue streams.
+ Improve SEO, performance marketing, and organic virality through product-led growth (PLG).
+Product Development & User Experience:
+ Develop and execute a growth-focused product roadmap.
+ Work with engineering, design, and marketing to build growth loops, gamification, and habit-forming features.
+ Drive personalization, engagement, and user stickiness through recommendation systems and behavior-based triggers.
+ Implement A/B tests and iterative optimizations to drive continuous improvements.
+Stakeholder & Team Management:
+ Collaborate with engineering, design, marketing, and business to align on growth initiatives.
+ Drive cross-functional stakeholder management across growth, product, and business teams.
+ Mentor Associate Product Managers (APMs) and interns, fostering a strong growth-driven culture.
+Culture & Mindset:
+ Be resourceful—find creative solutions to constraints and drive execution with available resources.
+ Demonstrate rigor in problem-solving, ensuring well-thought-out decisions.
+ Maintain a low ego, prioritising team success and customer impact over individual wins
+-----------------------
+18
+1. Product Strategy & Roadmap
+Define and own the product roadmap for one or more core product lines or features.
+Translate business goals, user needs, and technical opportunities into clear product strategies.
+Prioritize features and enhancements based on impact, effort, and strategic alignment.
+2. Execution & Delivery
+Write detailed Product Requirement Documents (PRDs) and ensure clarity across engineering, design, and QA teams.
+Work with engineering leads to define scope, timelines, and technical trade-offs.
+Drive sprint planning, backlog grooming, and release management.
+Ensure high-quality delivery with metrics on performance, reliability, and usability.
+3. Technical Collaborations
+Act as the product liaison with engineering — understanding APIs, architecture, data models, and system constraints.
+4. User Experience & Feedback
+Partner with design and user research teams to develop intuitive, user-centric experiences.
+Collect and analyze customer feedback and usage metrics to inform product improvement.
+5. Cross-functional Leadership
+Collaborate with sales, marketing, and operations to ensure successful launches and go-to-market alignment.
+Support customer success and pre-sales teams with product expertise and demos.
+Communicate product vision and progress effectively to stakeholders at all levels.
+-----------------------------
+19
+Define and champion the product strategy, roadmap, and feature prioritization.
+Conduct market research, competitor analysis, and gather user feedback.
+Write clear PRDs (Product Requirement Documents) and user stories.
+Collaborate with Project and Team Leads to align product goals with execution.
+Track KPIs, usage metrics, and drive continuous product iteration.
+--------------
+20
+Collaborate with cross-functional teams to design, build, and scale AI-driven products.
+Participate in all phases of the product life cycle, from conception through launch and iteration.
+Analyze market trends and user feedback to generate new product ideas.
+Contribute to the strategic planning and vision of AI products.
+Engage in customer interactions to better understand user needs and potential product enhancements.
+-----------------
+21
+• PM at a Consumer Startup (Pre-Series C)
+You’ve built from scratch. Worked in lean teams. And you are a builder at heart. 4+ years shipping/scaling growth products.
+• Launched & Scaled Something Real
+You’ve taken something from v1 to real scale—DAUs, downloads, paid users. Your resume shows outcomes, not fluff (Proof: 15% CAC, +20% paid conversion, +30% activation, or similar wins)
+• Growth DNA
+You’ve worked on GTM, SEO, CRO, onboarding, referrals, or pricing. You’ve shipped experiments and scaled what worked.
+• Hands-On AI Application
+You’ve integrated LLMs via APIs into actual products. Not “prompt engineering,” not “AI curious.” You’ve built and shipped. Tools like OpenAI, Anthropic, LangChain, etc.
+• Strong with Data
+You understand that insights are everything. You don’t wait for dashboards—you go hunting for truth in the numbers.
+------------------
+22
+Improve booking conversion— analyse where users drop off, identify friction points and run experiments to optimize the funnel
+Improving adoption of various offerings — optimize discovery, improve user journeys, and get more people using them.
+Launch features that drive revenue — identify unmet user needs and industry gaps, then build solutions that increase revenue
+Own the numbers— define what success looks like, track it relentlessly, run experiments, and double down on what works
+Drive fast experimentation — understand our systems and integrations well enough to scope what can be built quickly, work closely with engineering to remove blockers, and ship experiments rapidly
+-------------------
+23
+Represent the customer. Actively try to understand and build features by
+keeping customers in mind.
+Understand the needs of our customers and business to help create the
+roadmap for your product area.
+Develop a deep understanding of our customers and build the best product
+user experiences on their behalf through market research, experimentation,
+user testing, and data analysis.
+Define and analyze metrics that inform the success of products.
+Drive the cross-functional team (engineering, design, etc.) to deliver on the
+product outcome with minimal help from managers.
+-------------------
+24
+• Define and own strategic north star metrics to drive growth across current product lines.
+• Lead external growth initiatives across channels to improve lead generation, consideration, and conversion by streamlining processes and reducing friction.
+• Design and execute product-led initiatives—such as lite versions, demo environments, self-serve trials, and low-barrier experiences—that creatively generate and nurture leads, reduce merchant anxiety, and accelerate product trials.
+• Own and grow the Partner Training Portal as a channel for educating partners, creating new leads, and driving adoption of BIK's offerings.
+• Work with the Customer Success team to generate actionable insights that drive retention and upsell opportunities.
+• Identify high-leverage product opportunities through data analysis, user feedback, and experimentation.
+• Partner cross-functionally with design, engineering, and marketing to execute growth experiments and roll out impactful product changes.
+• Support GTM teams on campaign strategy, channel adoption, and user education to ensure new features and initiatives reach their audience effectively.
+-------------------
+25
+in this role you will be responsible for developing the product strategy and delivering competitive FP&A capability leveraging AI and Agentic Ai for the mid-market & small businesses
+Establish a high-performance culture through rigorous product management craft, ambitious goals and effective delivery
+Collaborate with your team and stakeholders to create and regularly refine product vision, strategy and roadmaps to accelerate use case maturity
+Create a network throughout the organization to effectively communicate and align on priorities and actively remove friction and increase decision making velocity
+Be boundaryless - champion durable capabilities, use case solutions and clear prioritization in order to rapidly deliver impact
+Actively teach, coach and mentor across the product management organization; establish best practices and actively enhance how we work
+-------------------
+26
+• Define, sequence, and communicate product priorities, balancing near-term wins with long-term platform bets.
+• Inject external, industry-level insight into our roadmap—scanning the market, competitors, and emerging tech to surface white-space opportunities.
+• Architect and execute the end-to-end growth strategy (acquisition, activation, retention, monetisation) across online (SEO/SEM, paid social, agencies) and offline (events, channel sales, field marketing) environments.
+• Discover, negotiate, and launch high-impact distribution channels and strategic partnerships that accelerate scale and brand visibility.
+• Own north-star and funnel metrics, run rapid experimentation, and translate findings into product iterations and go-to-market tactics.
+• Partner deeply with Engineering, Design, Data, and Marketing teams to align resources, timelines, and KPIs around a unified growth roadmap.
+------------------------
+27
+• Driving the Digital Product Development for Nutrabay, in an analytical and structured way across platforms (Web, Mobile & App).
+• Driving various growth initiatives at Nutrabay such as partner platforms and modules..
+• Owning various modules such as affiliate management systems, referral and loyalty and evolve them in line with business objectives and consumer effectiveness
+• Create simple and effective product documentation including Product Requirement Docs(PRD’s), Research Docs, Sprint Reviews etc. ensuring seamless transition of features and tasks between cross-functional teams.
+• Ensuring timely product sprints and removing any bottlenecks that could hinder the development sprints.
+• Tracking features success via success metrics through the month post every feature/module launch and update.
+• Ideate Product features & drive iterations based on qualitative and quantitative user feedback.
+• Designing workflows and wireframes for digital internal & external modules while ensuring a high-class User Experience(UX) on web and mobile.
+• Work closely with engineers to ship features and product improvements.
+• Ensure prioritization, timely execution, quality, resolving issues faced during operationalization and ensuring success metrics are met.
+• You should understand, track and optimize the product journey for buyers based on data.
+• Collaborate with internal stakeholders in support, marketing, sales and business to develop launch strategy, product messaging and training
+• Identify market opportunities and contribute to the product vision and business strategy.
+----------------------------
+28
+• Stakeholder Management: Build and maintain positive relationships with internal and external stakeholders, ensuring clear communication and alignment on project goals.
+• Data-Driven Decision Making: Utilize data analytics and key performance indicators to make informed decisions and drive continuous improvement.
+• Product Lifecycle Management: Monitor the product throughout its lifecycle, making updates and improvements as necessary.
+• Competitive Analysis: Keep a pulse on the market, identify competitive threats and opportunities, and adjust the product strategy accordingly.
+• Program Oversight: Manage and oversee multiple technology and e-commerce products, ensuring that they align with the company's strategic objectives. Work with product and project managers to develop comprehensive plans, including scope, timelines, budgets, and resource allocation.
+• Technical Proficiency: Leverage your technical knowledge to provide guidance and direction to cross-functional teams, facilitating efficient communication and problem-solving.
+• Assertive: Work with assertiveness, making critical decisions and keeping projects on track, while also fostering a collaborative and respectful work environment.
+• Kind and Supportive: Cultivate a positive and supportive team environment, nurturing talent, and promoting a sense of belonging.
+• E-commerce and Platform Expertise: Apply your knowledge of the e-commerce and platform ecosystem to identify opportunities for improvement and optimization within our products.
+• Risk Management: Proactively identify and mitigate product risks, ensuring product success and minimizing potential setbacks.
+• Quality Assurance: Collaborate with QA teams to ensure that technical solutions meet high-quality standards and address customer needs effectively.
+• Continuous Improvement: Drive a culture of continuous improvement, advocating for best practices and process enhancements within the organization.
+------------------------------
+29
+Web Product Management & Delivery
+• Responsible for the delivery of the website experience, SEO and conversion web product vision and its success.
+• Translate website strategic growth goals (organic traffic, lead generation, conversion improvements) into a clear web product deliverables roadmap.
+• Drive web product discovery for features and initiatives on the roadmap.
+• Build world-class web products to scale organic growth e.g. AI search/GEO, programmatic SEO, product-led growth (SEO/GEO) builds, global expansion, web performance improvements etc.
+• Ensure roadmap execution always ties to measurable growth impact.
+• Monitor and adapt web product vision and roadmap to constraints while staying aligned with vision.
+Backlog Management
+• Own the delivery cycle for website projects end-to-end, from scoping to release.
+• Maintain and prioritise the backlog, ensuring alignment with growth marketing priorities and user needs.
+• Drive sprint ceremonies and ensure the squad is delivering against roadmap commitments.
+• Balance strategic initiatives, stakeholder expectations (inbound requests), and customer needs against what can feasibly be delivered, making trade-offs based on impact and resourcing.
+• Write clear user stories, acceptance criteria, and requirements for engineering and design while applying a strategic mindset.
+• Represent the customer and business during sprint planning and release prioritisation decisions.
+Collaboration & Cross-Functional Leadership
+• Partner with SEO and Conversion teams to bring their initiatives into the roadmap (e.g. SEO tools, programmatic SEO, new landing pages, form optimisation), ensuring they are delivered efficiently.
+• Collaborate with UX/UI/Web Designers to deliver high-quality website experiences through best-in-class designs that drive engagement and growth.
+• Work closely with the Engineers to align on feasibility, capacity planning, QA, and delivery of the designed solutions.
+• Work with the data experts to produce insights with clear visibility into website performance towards our goals; enabling data-driven decisions on priorities, iterations, and roadmap planning.
+• Serve as a key point of contact for cross-functional stakeholders (Marketing, Sales, Product, UX, senior leadership) on website priorities, alignment, and resourcing.
+• Represent the website product/engineering squad in leadership forums, ensuring dependencies with other squads are unblocked.
+Measurement & Continuous Improvement
+• Define success metrics for all website initiatives in collaboration with the website, SEO and Conversion lead and managers.
+• Monitor data analytics, performance and experiment results to inform new iterations and future priorities.
+• Drive a culture of testing, iteration, and evidence-based decision-making.
+• Continuously optimise workflows and delivery processes for greater velocity and impact, particularly through the adoption of AI.
+-------------------------------------
+30
+Funnel Optimization
+Own the entire product funnel : signups → activation → engagement → monetization.
+Identify drop-offs, friction points, and opportunities using Mixpanel, GA, Amplitude , or similar tools.
+User Activation & Onboarding
+Design and launch onboarding flows, checklists, guided tours, and contextual nudges to reduce Time to Value.
+Optimize first-user experiences tailored to dealerships (e.g., first vehicle listing or photo shoot).
+Experimentation & Growth Loops
+Prioritize, build, and analyze A/B tests and experiments to drive conversion and feature adoption.
+Design and execute growth loops such as referrals, freemium-to-paid flows, or engagement nudges.
+Monetization & Expansion
+Run pricing and packaging experiments.
+Enable product signals that help Sales/CX teams identify expansion opportunities.
+Build upgrade nudges, trial-to-paid flows, and usage-based paywalls where applicable.
+Data & Insights
+Define key metrics for growth and retention.
+Collaborate with data analysts to create dashboards and track performance.
+----------------------------------------
