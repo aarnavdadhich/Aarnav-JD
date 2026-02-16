@@ -1,0 +1,73 @@
+1
+Key Responsibilities 
+
+• Design, develop, test, and deploy smart contracts for blockchain-based payment and asset systems.
+• Build and maintain integrations between blockchain networks and centralized backend services.
+• Implement secure wallet, key management, and transaction-signing mechanisms.
+• Develop APIs and services that enable on-chain and off-chain interactions.
+• Ensure security, scalability, and reliability of blockchain and crypto components.
+• Conduct code reviews, testing, and support smart contract audits and remediation.
+• Collaborate with product, backend, compliance, and infrastructure teams.
+• Monitor live blockchain systems, troubleshoot issues, and optimize performance.
+
+
+Skills and Experience 
+
+• Proven experience as a Blockchain or Crypto Developer in production environments.
+• Strong experience with Ethereum / EVM-based blockchains.
+• Advanced proficiency in Solidity and smart contract development.
+• Experience with blockchain development frameworks (Hardhat, Truffle, Foundry, or similar).
+• Backend development experience using Node.js (JavaScript/TypeScript), Go, or Python.
+• Solid understanding of cryptography, digital signatures, and blockchain security principles.
+• Experience integrating Web3 libraries (Ethers.js, Web3.js) and RPC providers.
+• Knowledge of REST APIs, microservices, and distributed systems.
+• Experience with cloud infrastructure, CI/CD pipelines, and containerization (Docker).
+
+
+Nice to Have 
+
+• Experience with non-EVM chains (Solana, Polkadot, Cosmos, or similar).
+• Experience in fintech, payments, or financial services environments.
+• Knowledge of Layer-2 scaling solutions and cross-chain protocols.
+• Experience with blockchain security audits or formal verification.
+• Understanding of AML/KYC and regulatory considerations for crypto systems.
+• Experience with tokenomics, stablecoins, or programmable payments.
+• Prior startup or high-growth technology environment experience.
+----------------------------------------
+2
+Key Responsibilities :
+
+
+
+Full Stack Development: Build and maintain end-to-end decentralized applications, integrating Solidity smart contracts with high-performance Node.js backend services.
+Smart Contract Engineering: Develop, audit, and deploy secure Solidity contracts for trading platforms, focusing on gas optimization and security.
+Core Infrastructure: Set up, configure, and maintain Ethereum and Bitcoin (Bitcoin Core) full nodes for internal API interactions.
+Trading Integration: Work with product teams to build features for spot trading, liquidity pools, and automated order book mechanics.
+Codebase & Security: Lead codebase reviews for scalability and perform deep security assessments/audits to prevent vulnerabilities.
+System Architecture: Design and document technical specifications for transaction flows, wallet interactions, and real-time data indexing.
+------------------------------
+3
+Governance & Compliance
+Enforce IAM governance frameworks, policies, standards, and procedures. Support periodic access reviews, ISO compliance activities, and audit requests. Maintain accurate documentation for onboarding, offboarding, and access certification processes. Identify gaps in control execution and recommend improvements.
+ Ticketing & Operational Support
+Process and resolve IAM-related tickets, including access provisioning, deprovisioning, role changes, and account issues. Perform timely escalation of complex access requests to appropriate teams. Maintain SLA compliance and provide high-quality support to business users. Document repeatable procedures and contribute to knowledge-base updates.
+ Role & Access Management
+Assist with reviewing role-based access models (RBAC) and access groups. Validate access requests to ensure least privilege and segregation of duties (SoD).Work with application owners to understand access patterns and governance requirements.
+ Security & Risk Management
+Identify and report potential access risks and policy violations. Support incident investigations related to identity or access breaches. Partner with Security Engineering to ensure IAM tooling and processes align with evolving threats.
+ Continuous Improvement
+Identify opportunities to automate or streamline ticketing and governance workflows. Participate in IAM projects, system upgrades, and process optimization initiatives. Provide input for improving audit readiness and reducing manual workloads.
+--------------------------------------
+4
+Principal Duties And Responsibilities
+
+ Applies Software knowledge to assist and support the design, development, creation, modification, and validation of embedded and cloud edge software, applications, and/or specialized utility programs.
+ Analyzes user needs and software requirements.
+ Designs and implements small software features for products and systems.
+ Participates in the design, coding for small features, unit testing, minor debugging fixes, and integration efforts to ensure projects are completed on schedule.
+ Assists in performing code reviews and regression tests as well as the triaging of issues to ensure the quality of code.
+ Collaborates with others inside project team to accomplish project objectives.
+ Writes technical documentation for Software projects.
+
+------------------------------
+5
